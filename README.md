@@ -393,6 +393,11 @@ Start adding your names here:
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
   
+  ### kropht
+- Computer science student
+- I love video games
+- [![github-alt][github-img]](https://github.com/kropht)
+  
 
 ## How to Contribute
 
